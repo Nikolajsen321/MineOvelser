@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chekbox/Chekbox.iml" filepath="$PROJECT_DIR$/Chekbox/Chekbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChekedVsUnCheked/ChekedVsUnCheked.iml" filepath="$PROJECT_DIR$/ChekedVsUnCheked/ChekedVsUnCheked.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionOgMapsTeoriDatastruktur/CollectionOgMapsTeoriDatastruktur.iml" filepath="$PROJECT_DIR$/CollectionOgMapsTeoriDatastruktur/CollectionOgMapsTeoriDatastruktur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomException/CustomException.iml" filepath="$PROJECT_DIR$/CustomException/CustomException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatastrukturTeoriSomOgsaErGeneric/DatastrukturTeoriSomOgsaErGeneric.iml" filepath="$PROJECT_DIR$/DatastrukturTeoriSomOgsaErGeneric/DatastrukturTeoriSomOgsaErGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fletning/Fletning.iml" filepath="$PROJECT_DIR$/Fletning/Fletning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuiOvelser/GuiListView/GuiListView.iml" filepath="$PROJECT_DIR$/GuiOvelser/GuiListView/GuiListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuiOvelser/GuiOvelser.iml" filepath="$PROJECT_DIR$/GuiOvelser/GuiOvelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuiOvelser/GuiRadioButtom/GuiRadioButtom.iml" filepath="$PROJECT_DIR$/GuiOvelser/GuiRadioButtom/GuiRadioButtom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaTeori/LambdaTeori.iml" filepath="$PROJECT_DIR$/LambdaTeori/LambdaTeori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lommeregner/Lommeregner.iml" filepath="$PROJECT_DIR$/Lommeregner/Lommeregner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min ovelser.iml" filepath="$PROJECT_DIR$/Min ovelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ovelse/Ovelse.iml" filepath="$PROJECT_DIR$/Ovelse/Ovelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prove/Prove.iml" filepath="$PROJECT_DIR$/Prove/Prove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekursion/Rekursion.iml" filepath="$PROJECT_DIR$/Rekursion/Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake/Snake.iml" filepath="$PROJECT_DIR$/Snake/Snake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sogning/Sogning.iml" filepath="$PROJECT_DIR$/Sogning/Sogning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsNoter/StreamsNoter.iml" filepath="$PROJECT_DIR$/StreamsNoter/StreamsNoter.iml" />
+    </modules>
+  </component>
+</project>
